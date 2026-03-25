@@ -1,5 +1,5 @@
 # Avance de Portafolio
 
-![Menu Principal](Images/image.png)
+![Menu Principal](images/image.png)
 
-![Misiones](Images/image2.png)
+![Misiones](images/image2.png)
